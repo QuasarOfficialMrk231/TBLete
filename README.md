@@ -34,5 +34,5 @@
 ##### ​Любые Docker-контейнеры
 ## Как установить:
 ```bash
-    sudo bash -c "wget -qO /usr/local/bin/emergency_wipe.sh https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/emergency_wipe.sh && wget -qO /usr/local/bin/system_watcher.sh https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/system_wather.sh && wget -qO /etc/systemd/system/watcher.service https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/watcher.service && wget -qO /tmp/start.sh https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/start.sh && chmod +x /tmp/start.sh && /tmp/start.sh"
+  sudo bash -c "wget -qO /usr/local/bin/emergency_wipe.sh https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/emergency_wipe.sh && wget -qO /usr/local/bin/system_watcher.sh https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/system_wather.sh && wget -qO /etc/systemd/system/watcher.service https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/watcher.service && wget -qO /tmp/start.sh https://raw.githubusercontent.com/QuasarOfficialMrk231/TBLete/main/start.sh && chmod +x /tmp/start.sh && /tmp/start.sh"
 ```
