@@ -18,8 +18,8 @@
 ##### ​Для x86 (32-бит процессоры)
 ​[gparted-live-1.6.0-3-i686.iso](https://downloads.sourceforge.net/gparted/gparted-live-1.6.0-3-i686.iso)
 ##### ​Для x86-pae (32-бит процессоры)
-[​gparted-live-1.6.0-3-i686-pae.iso](https://downloads.sourceforge.net/gparted/gparted-live-1.6.0-3-i686-pae.iso) 
-​#### Краткая инструкция:
+[​gparted-live-1.6.0-3-i686-pae.iso](https://downloads.sourceforge.net/gparted/gparted-live-1.6.0-3-i686-pae.iso)  
+#### Краткая инструкция:
 ##### ​Запишите образ на флешку и загрузитесь с неё.
 ​В GParted выберите диск и нажмите Device -> Create Partition Table -> gpt.
 ​Создайте новый раздел (New) и нажмите Apply. 
